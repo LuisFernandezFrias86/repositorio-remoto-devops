@@ -1,2 +1,2 @@
 Ejercicio de laboratorio Git.
-Modificación del fichero para realizacion del push
+Modificación de la rama para realizacion del push
